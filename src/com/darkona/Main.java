@@ -2,6 +2,8 @@ package com.darkona;
 
 public class Main {
 
+    //java -jar Cheetah.jar
+
     public static void main(String[] args) {
 
         System.out.println("Hello Cheetah!");
@@ -19,6 +21,7 @@ public class Main {
         }
 
         System.out.println(str);
+
 
     }
 }
